@@ -1,3 +1,4 @@
 creating everthing from scratch
 and learning github on the go 
-the Date is 22 feb and time is 12:38 and just added all necesary file to git remotely 
+the Date is 22 feb and time is 12:38 and just added all necesary file to git remotely and updating it 
+and testing few stuff 
